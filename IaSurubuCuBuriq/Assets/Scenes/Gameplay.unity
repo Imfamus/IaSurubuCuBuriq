@@ -1930,6 +1930,75 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3000526572552331811}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &953072072
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 355545746}
+    m_Modifications:
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.024
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.021
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 587611483555420880, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5406083851167976285, guid: 2f56b9648370f57448e7b7266742b531,
+        type: 3}
+      propertyPath: m_Name
+      value: StoneFenceSize+Pillar (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f56b9648370f57448e7b7266742b531, type: 3}
 --- !u!1001 &970643924
 PrefabInstance:
   m_ObjectHideFlags: 0
